@@ -1,0 +1,21 @@
+Circuit: * C:\Users\Dell\Desktop\TC_TP1\filtroRC_altafrecuencia.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Sat Aug 22 22:51:24 2020
+Total elapsed time: 0.239 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 15225
+traniter = 15222
+tranpoints = 7612
+accept = 7590
+rejected = 22
+matrix size = 6
+fillins = 0
+solver = Normal
+Matrix Compiler1: 110 bytes object code size  0.1/0.0/[0.0]
+Matrix Compiler2:      30 opcodes  0.1/[0.0]/0.1
+
