@@ -1,0 +1,20 @@
+Circuit: * C:\Users\Dell\Desktop\TC-TP2\Simulaciones\No_inversor_Caso3.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Mon Sep 14 02:29:07 2020
+Total elapsed time: 0.028 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 13
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 32
+fillins = 37
+solver = Normal
+Matrix Compiler1:     179 opcodes
+Matrix Compiler2: 3.24 KB object code size
