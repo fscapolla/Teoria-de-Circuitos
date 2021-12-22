@@ -1,0 +1,5 @@
+PyQt5~=5.13.2
+numpy~=1.18.3
+scipy~=1.4.1
+matplotlib~=3.2.1
+sympy~=1.5.1
