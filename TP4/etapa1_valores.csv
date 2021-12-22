@@ -1,0 +1,7 @@
+Componente,Valor teórico,Valor nominal,Error porcentual
+C,5 nF,5 nF,0%
+R_2,5 k\Omega,"5,1 k\Omega","0,02%"
+R_1/a,"1981,46 \Omega",2 k\Omega,"0,0093%"
+R_1/(1-a),"771,59 \Omega",750  \Omega,"0,027%"
+KR,"1,52 k\Omega","1,5 k\Omega","0,013%"
+(1-K)R,"8,41 k\Omega","8,2 k\Omega","0,025%"

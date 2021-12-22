@@ -1,0 +1,10 @@
+Componente,Valor calculado,Valor nominal,Error porcentual
+$C_3$,$47 nF$,$27 nF$,$0\%$
+$C_{21}$,$10 nF$,$10 nF$,"$0,052\%$"
+$C_{22}$,"$36,93 nF$",$36 nF // 1 nF$,$0\%$
+$R_b$,$20 k\Omega$,$20 k\Omega$,$0\%$
+$R_1$,"$88,4 \Omega$","$88,7  \Omega$","$0,019\%$"
+$R_{41}$,"$128,48 \Omega$",$127+1 \Omega $,"$0,00015\%$"
+$R_{42}$,"$2,931 k\Omega$","$2870+61,9\Omega$","$0,0003\%$"
+$R_{a1}$,$ 82 k\Omega$,"$82,5 \Omega$","$0,0016\%$"
+$R_{a2}$,"$ 633,5 k\Omega$","$619+14,7\Omega$","$0,014\%$"
